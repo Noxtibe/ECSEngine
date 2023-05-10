@@ -1,0 +1,192 @@
+[
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\ecs-game.dir\\game\\main.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\main.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\main.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rcore.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rcore.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rmodels.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rmodels.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rshapes.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rshapes.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rtext.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rtext.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rtextures.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\rtextures.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\utils.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\utils.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\utils.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -external:I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\raudio.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\raudio.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\" /DWIN32 /D_WINDOWS /W3 /MDd /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Foengine\\CMakeFiles\\engine.dir\\AssetsManager.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\AssetsManager.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\AssetsManager.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Foengine\\CMakeFiles\\engine.dir\\ECSEngine.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\ECSEngine.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\ECSEngine.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Foengine\\CMakeFiles\\engine.dir\\GMath.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\GMath.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\GMath.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Foengine\\CMakeFiles\\engine.dir\\Renderer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\Renderer.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\Renderer.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Foengine\\CMakeFiles\\engine.dir\\Window.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\Window.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\\Window.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Fogame\\CMakeFiles\\game.dir\\EcsManager.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\EcsManager.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\EcsManager.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Fogame\\CMakeFiles\\game.dir\\Game.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\Game.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\Game.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Fogame\\CMakeFiles\\game.dir\\SceneGame.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\SceneGame.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\SceneGame.cpp"
+},
+{
+  "directory": "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\engine\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-src\\src\\external\\glfw\\include\" -I\"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\engine\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 /Fogame\\CMakeFiles\\game.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\main.cpp\"",
+  "file": "X:\\Artfx\\3ième Année\\Progs\\ECS\\ECSEngine\\game\\main.cpp"
+}
+]

@@ -1,0 +1,236 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "ecs-game.exe"
+		},
+		{
+			"path" : "ecs-game.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"game/CMakeLists.txt",
+			"out/build/x64-debug/_deps/raylib-src/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 3
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 87,
+				"parent" : 5
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1"
+				},
+				{
+					"fragment" : "-std:c++20"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "GRAPHICS_API_OPENGL_33"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "PLATFORM_DESKTOP"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "X:/Artfx/3i\u00e8me Ann\u00e9e/Progs/ECS/ECSEngine/game/engine"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "X:/Artfx/3i\u00e8me Ann\u00e9e/Progs/ECS/ECSEngine/out/build/x64-debug/_deps/raylib-src/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "X:/Artfx/3i\u00e8me Ann\u00e9e/Progs/ECS/ECSEngine/out/build/x64-debug/_deps/raylib-src/src/external/glfw/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "X:/Artfx/3i\u00e8me Ann\u00e9e/Progs/ECS/ECSEngine/engine"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "raylib::@4dc3a4644cf4ded08c01"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "game::@0c53ff3c4131f9152fd3"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "glfw::@9de86fbe87260ae8e66c"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "engine::@4088515cb4035b412499"
+		}
+	],
+	"id" : "ecs-game::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-LIBPATH:\"X:\\Artfx\\3i\u00e8me Ann\u00e9e\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\game\"",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-LIBPATH:\"X:\\Artfx\\3i\u00e8me Ann\u00e9e\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\engine\"",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-LIBPATH:\"X:\\Artfx\\3i\u00e8me Ann\u00e9e\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\"",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-LIBPATH:\"X:\\Artfx\\3i\u00e8me Ann\u00e9e\\Progs\\ECS\\ECSEngine\\out\\build\\x64-debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src\"",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "game\\game.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "engine\\engine.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "_deps\\raylib-build\\raylib\\raylib.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "opengl32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "glu32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "winmm.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "_deps\\raylib-build\\raylib\\external\\glfw\\src\\glfw3.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "ecs-game",
+	"nameOnDisk" : "ecs-game.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "game/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

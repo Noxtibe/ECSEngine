@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "X:/Artfx/3ième Année/Progs/ECS/ECSEngine/out/build/x64-debug/CMakeFiles/ecs-game.dir/embed.manifest"
