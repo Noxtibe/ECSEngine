@@ -5,10 +5,12 @@ Window::Window(i32 widthP, i32 heightP, str titleP) : width{ widthP },height{ he
 {
 	InitWindow(width, height, title.c_str());
 }
+
 Window::~Window() 
 {
 	CloseWindow();
 }
+
 bool Window::ShouldClose() 
 {
 	return WindowShouldClose();

@@ -124,15 +124,15 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "game::@0c53ff3c4131f9152fd3"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "glfw::@9de86fbe87260ae8e66c"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "engine::@4088515cb4035b412499"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "game::@0c53ff3c4131f9152fd3"
 		}
 	],
 	"id" : "ecs-game::@6890427a1f51a3e7e1df",

@@ -11,6 +11,7 @@ void ECSEngine::Start(i32 windowWidth, i32 windowHeight, const str& gameNameP, u
 	Window window{ windowWidth, windowHeight, gameName };
 	SetTargetFPS(60);
 	game->Load();
+
 	while (!Window::ShouldClose())
 	{
 		f32 dt = std::min(GetFrameTime(), 0.0166f);

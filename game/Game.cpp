@@ -7,6 +7,7 @@ void Game::Load()
 	ecs = std::make_shared<ECSManager>();
 	AddScene(std::make_unique<SceneGame>(ecs, *this));
 }
+
 void Game::Update(f32 dt) 
 {
 	for (auto&& scene : std::ranges::reverse_view(sceneStack)) 
@@ -15,6 +16,7 @@ void Game::Update(f32 dt)
 		if (scene->GetLocking()) break;
 	}
 }
+
 void Game::Draw() 
 {
 	//ecs->PrepareDraw();
@@ -25,17 +27,20 @@ void Game::Draw()
 	}
 	//ecs->DrawScene();
 }
+
 void Game::AddScene(unique_ptr<IScene> newScene) 
 {
 	sceneStack.push_back(std::move(newScene));
 	sceneStack.back()->Load();
 }
+
 void Game::RemoveCurrentScene() 
 {
 	if (sceneStack.empty()) return;
 	sceneStack.back()->Unload();
 	sceneStack.pop_back();
 }
+
 void Game::SwitchScene(unique_ptr<IScene> newScene) 
 {
 	if (!sceneStack.empty()) 
@@ -44,6 +49,7 @@ void Game::SwitchScene(unique_ptr<IScene> newScene)
 	}
 	AddScene(std::move(newScene));
 }
+
 void Game::Unload() 
 {
 	for (auto&& scene : std::ranges::reverse_view(sceneStack)) 
